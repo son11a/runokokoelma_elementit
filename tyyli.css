@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+div {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    margin: 0% 15% 0% 15%;
+}
+.header1 {
+    background-image: url("sade.jpg")
+    
+}
+
+.header1 h1 {
+    font-size: 60px;
+    color: white;
+}
+.header2 h1 {
+    font-size: 60px;
+    color: white;
+}
+
+.header2 {
+    background-image: url("tulta.jpg");
+}
+
+.header3 {
+    background-image: url("kukkia.jpg");
+}
+.header3 h1 {
+    font-size: 60px;
+    color: white;
+}
+
+.header4 h1 {
+    font-size: 60px;
+    color: white;
+}
+.header4 {
+    background-image: url("perhosia.jpg");
+}
+
+div1 {
+    text-align: left;
+}
